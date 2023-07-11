@@ -25,8 +25,13 @@ Utilization of semantic HTML and SEO best practices for improved search engine v
 Implementation of optimized queries to ensure fast loading times
 
 
+
  # netlify
 ## https://spacex-frontend.netlify.app/
+
+## Glimpses
+![Screenshot 2023-07-11 215249](https://github.com/aarohi1234/Nidhi-frontendDeveloper/assets/101396134/9f47c406-a215-4315-9a0a-4e0a0f0e5a2b)
+
  
 
 
