@@ -2,7 +2,7 @@
 
 This project is a React app that allows users to explore and display SpaceX data, focusing on Rockets or Capsules. The app leverages SpaceX's open-sourced data available through the SpaceX API. The objective is to build a landing page with a modern design, search functionality, and a data grid to showcase the SpaceX data effectively.
 
-## About the Project
+
 
 In the project directory, you can run:
 
@@ -12,7 +12,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-
+## About the Project
 ### Features
 
 Landing page with a modern banner layout to highlight UI skills
